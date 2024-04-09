@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.4.0...2.x)
+## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.4.1...2.x)
+
+## [v2.4.1](https://github.com/laravel/cashier-paddle/compare/v2.4.0...v2.4.1) - 2024-04-09
+
+* Fix "Pause the subscription" by [@movicat](https://github.com/movicat) in https://github.com/laravel/cashier-paddle/pull/252
 
 ## [v2.4.0](https://github.com/laravel/cashier-paddle/compare/v2.3.1...v2.4.0) - 2024-02-27
 
