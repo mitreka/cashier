@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.4.1...2.x)
+## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.4.2...2.x)
+
+## [v2.4.2](https://github.com/laravel/cashier-paddle/compare/v2.4.1...v2.4.2) - 2024-04-23
+
+* [2.x] Use morphs method in migrations by [@dasundev](https://github.com/dasundev) in https://github.com/laravel/cashier-paddle/pull/256
 
 ## [v2.4.1](https://github.com/laravel/cashier-paddle/compare/v2.4.0...v2.4.1) - 2024-04-09
 
