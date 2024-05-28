@@ -1,6 +1,12 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.4.2...2.x)
+## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.4.3...2.x)
+
+## [v2.4.3](https://github.com/laravel/cashier-paddle/compare/v2.4.2...v2.4.3) - 2024-05-28
+
+* Fix empty payload by [@driesvints](https://github.com/driesvints) in https://github.com/laravel/cashier-paddle/pull/260
+* [2.x] Prevent customer from logging out by [@driesvints](https://github.com/driesvints) in https://github.com/laravel/cashier-paddle/pull/261
+* Rename name param to type by [@driesvints](https://github.com/driesvints) in https://github.com/laravel/cashier-paddle/pull/262
 
 ## [v2.4.2](https://github.com/laravel/cashier-paddle/compare/v2.4.1...v2.4.2) - 2024-04-23
 
