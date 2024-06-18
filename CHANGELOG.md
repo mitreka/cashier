@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.4.3...2.x)
+## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.4.4...2.x)
+
+## [v2.4.4](https://github.com/laravel/cashier-paddle/compare/v2.4.3...v2.4.4) - 2024-06-18
+
+* Migrated from Paddle.Setup() to Paddle.Initialize() by [@sertxudev](https://github.com/sertxudev) in https://github.com/laravel/cashier-paddle/pull/264
 
 ## [v2.4.3](https://github.com/laravel/cashier-paddle/compare/v2.4.2...v2.4.3) - 2024-05-28
 
