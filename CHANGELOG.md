@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.4.4...2.x)
+## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.5.0...2.x)
+
+## [v2.5.0](https://github.com/laravel/cashier-paddle/compare/v2.4.4...v2.5.0) - 2024-07-09
+
+* Bill for non-catalog items by [@AcTiv3MineD](https://github.com/AcTiv3MineD) in https://github.com/laravel/cashier-paddle/pull/263
 
 ## [v2.4.4](https://github.com/laravel/cashier-paddle/compare/v2.4.3...v2.4.4) - 2024-06-18
 
