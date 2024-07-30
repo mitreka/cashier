@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.5.0...2.x)
+## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.5.1...2.x)
+
+## [v2.5.1](https://github.com/laravel/cashier-paddle/compare/v2.5.0...v2.5.1) - 2024-07-30
+
+* Handle empty name values for a customer by [@doncadavona](https://github.com/doncadavona) in https://github.com/laravel/cashier-paddle/pull/268
 
 ## [v2.5.0](https://github.com/laravel/cashier-paddle/compare/v2.4.4...v2.5.0) - 2024-07-09
 
