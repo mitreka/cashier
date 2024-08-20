@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.5.1...2.x)
+## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.5.2...2.x)
+
+## [v2.5.2](https://github.com/laravel/cashier-paddle/compare/v2.5.1...v2.5.2) - 2024-08-20
+
+* Allow false values in checkout by [@driesvints](https://github.com/driesvints) in https://github.com/laravel/cashier-paddle/pull/276
 
 ## [v2.5.1](https://github.com/laravel/cashier-paddle/compare/v2.5.0...v2.5.1) - 2024-07-30
 
