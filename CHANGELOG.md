@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.5.3...2.x)
+## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.5.4...2.x)
+
+## [v2.5.4](https://github.com/laravel/cashier-paddle/compare/v2.5.3...v2.5.4) - 2024-12-12
+
+* Fix search of customers by email by [@Rydgel](https://github.com/Rydgel) in https://github.com/laravel/cashier-paddle/pull/288
 
 ## [v2.5.3](https://github.com/laravel/cashier-paddle/compare/v2.5.2...v2.5.3) - 2024-11-26
 
