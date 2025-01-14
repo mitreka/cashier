@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.5.4...2.x)
+## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.5.5...2.x)
+
+## [v2.5.5](https://github.com/laravel/cashier-paddle/compare/v2.5.4...v2.5.5) - 2025-01-14
+
+* Prevent customer from logging out in inline checkout by [@carlosmintfan](https://github.com/carlosmintfan) in https://github.com/laravel/cashier-paddle/pull/291
 
 ## [v2.5.4](https://github.com/laravel/cashier-paddle/compare/v2.5.3...v2.5.4) - 2024-12-12
 
