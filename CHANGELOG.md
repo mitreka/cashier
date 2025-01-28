@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.5.5...2.x)
+## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.5.6...2.x)
+
+## [v2.5.6](https://github.com/laravel/cashier-paddle/compare/v2.5.5...v2.5.6) - 2025-01-28
+
+* Supports Laravel 12 by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/cashier-paddle/pull/292
 
 ## [v2.5.5](https://github.com/laravel/cashier-paddle/compare/v2.5.4...v2.5.5) - 2025-01-14
 
