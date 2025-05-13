@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.5.6...2.x)
+## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.6.0...2.x)
+
+## [v2.6.0](https://github.com/laravel/cashier-paddle/compare/v2.5.6...v2.6.0) - 2025-05-13
+
+* feat: Add CSP nonce support for [@paddleJS](https://github.com/paddleJS) directive by [@sgasser](https://github.com/sgasser) in https://github.com/laravel/cashier-paddle/pull/297
 
 ## [v2.5.6](https://github.com/laravel/cashier-paddle/compare/v2.5.5...v2.5.6) - 2025-01-28
 
