@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.6.0...2.x)
+## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.6.1...2.x)
+
+## [v2.6.1](https://github.com/laravel/cashier-paddle/compare/v2.6.0...v2.6.1) - 2025-05-27
+
+* fix(#298): correctly parse and send expression array to view by [@mve](https://github.com/mve) in https://github.com/laravel/cashier-paddle/pull/299
 
 ## [v2.6.0](https://github.com/laravel/cashier-paddle/compare/v2.5.6...v2.6.0) - 2025-05-13
 
