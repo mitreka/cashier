@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.6.1...2.x)
+## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v2.6.2...2.x)
+
+## [v2.6.2](https://github.com/laravel/cashier-paddle/compare/v2.6.1...v2.6.2) - 2025-06-10
+
+* Update Transaction.php by [@YonkoSam](https://github.com/YonkoSam) in https://github.com/laravel/cashier-paddle/pull/300
 
 ## [v2.6.1](https://github.com/laravel/cashier-paddle/compare/v2.6.0...v2.6.1) - 2025-05-27
 
