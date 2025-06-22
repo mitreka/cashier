@@ -51,7 +51,7 @@
     "autoload-dev": {
         "psr-4": {
             "Tests\\": "tests/",
-            "Workbench\\App\\": "workbench/app/",
+            "Workbench\\Cashier\\": "workbench/cashier/",
             "Workbench\\Database\\Factories\\": "workbench/database/factories/"
         }
     },

@@ -6,7 +6,7 @@ use Illuminate\Foundation\Testing\LazilyRefreshDatabase;
 use Laravel\Paddle\Cashier;
 use Orchestra\Testbench\Concerns\WithWorkbench;
 use Orchestra\Testbench\TestCase;
-use Workbench\App\Models\User;
+use Workbench\Cashier\Models\User;
 
 abstract class FeatureTestCase extends TestCase
 {
