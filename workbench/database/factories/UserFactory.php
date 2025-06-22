@@ -2,10 +2,10 @@
 
 namespace Workbench\Database\Factories;
 
-use Workbench\App\Models\User;
+use Workbench\Cashier\Models\User;
 
 /**
- * @template TModel of \Workbench\App\Models\User
+ * @template TModel of \Workbench\Cashier\Models\User
  *
  * @extends \Illuminate\Database\Eloquent\Factories\Factory<TModel>
  */

@@ -1,6 +1,6 @@
 <?php
 
-namespace Workbench\App\Models;
+namespace Workbench\Cashier\Models;
 
 use Illuminate\Foundation\Auth\User as Authenticable;
 use Laravel\Paddle\Billable;
